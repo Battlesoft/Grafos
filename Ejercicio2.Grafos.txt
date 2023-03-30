@@ -1,0 +1,13 @@
+public void a Method() /*I*/
+
+{
+    if (a||b) /*1º*/ /*2º*/ /*5º*/
+    
+    {
+        do Something(); /*4º*/
+    } else if(c) /*6º*/
+    {
+        doSomethingElse(); /*7º*/
+    }
+} /*F*/
+

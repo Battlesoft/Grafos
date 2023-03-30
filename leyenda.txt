@@ -1,0 +1,7 @@
+V = Verdadero
+
+F = Falso
+
+I = Inicio
+
+F = Final y Falso ( diferenciado por el final del codigo y el resultado de un metodo en los .jpg)
